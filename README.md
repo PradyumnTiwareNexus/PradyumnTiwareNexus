@@ -42,17 +42,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 
 ---
 
----
-
-<!-- ===== B-Full: Fancy Glass Banner + Animated Header ===== -->
-
-<p align="center">
-  <!-- Upload assets/banner.png (1600×300) -->
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
-
-<!-- ===== B-Compact: same badges, tighter spacing ===== -->
-
+<!-- ===== Fancy Banner (single copy) ===== -->
 <p align="center">
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
@@ -105,9 +95,6 @@ With a strong passion for technology and experience in vulnerability assessment,
 </div>
 
 ---
-
-
-
 
 ## 📫 Connect
 <p align="center">
