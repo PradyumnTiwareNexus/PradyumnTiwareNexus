@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge" alt="hi">
+</p>
+
+<h1 align="center">Hi! I'm <span style="color:#00BFFF">Pradyumn Tiware Nexus</span> 👋</h1>
+
+<p align="center">
+  <b>Cybersecurity Researcher • Bug Bounty Hunter • Recon Automation Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://pradyumntiwarenexus.github.io/" target="_blank">🔗 Portfolio</a> • 
+  <a href="https://github.com/PradyumnTiwareNexus/All-in-one-recon" target="_blank">🧩 All-in-one-recon</a> • 
+  <a href="mailto:your-email@example.com">✉️ Contact</a>
+</p>
+
+---
+
+## 👤 More about me  
+- 🔎 **Specialties:** Recon Automation, OSINT, Web Security, Bug Bounty  
+- 🛠️ **Tools I use:** Burp Suite, Nmap, Subfinder, httpx, nuclei, Gau, Wayback  
+- 💻 **Languages:** Python • Bash • JavaScript • C/C++  
+- 🌱 **Currently:** Building advanced recon automation & improving All-in-one-recon (v2.1)  
+- 🏆 **Hobbies:** Bug hunting, CTFs, reading security writeups  
+
+---
+
 ## 🧠 Knowledge & Skills
 
 <div align="center">
@@ -43,3 +70,14 @@
 <img src="https://img.shields.io/badge/VS%20CODE-0b0f14?style=for-the-badge&logo=visual-studio-code&logoColor=1e90ff" />
 
 </div>
+
+
+## 📫 Connect
+<p align="center">
+  <a href="https://github.com/PradyumnTiwareNexus" target="_blank">🐙 GitHub</a> • 
+  <a href="https://pradyumntiwarenexus.github.io/" target="_blank">🌐 Website</a> • 
+  <a href="https://twitter.com/your_twitter" target="_blank">🐦 X/Twitter</a> • 
+  <a href="mailto:your-email@example.com">✉️ Email</a>
+</p>
+
+<p align="center">⭐ If you like my projects, consider giving a star!</p>
