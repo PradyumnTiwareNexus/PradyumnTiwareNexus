@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="banner.svg" alt="Pradyumn Tiware Nexus Banner" width="100%" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge" alt="hi">
 </p>
 
