@@ -1,37 +1,23 @@
-<!-- ===================== TOP BANNER ===================== -->
+<!-- ===== Top banner (root) ===== -->
 <p align="center">
-  <img src="assets/banner_anim.gif" width="100%" />
+  <img src="banner_anim.gif" alt="Pradyumn Tiware Nexus - Cyberpunk Banner" width="100%" />
 </p>
 
-<!-- ===================== VISITORS COUNTER ===================== -->
+<!-- Visitors -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PradyumnTiwareNexus" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PradyumnTiwareNexus" alt="visitors"/>
 </p>
 
-<!-- ===================== NAME BADGE ===================== -->
+<!-- Typing header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge">
+  <img src="typing_header.gif" alt="Typing Header" width="420" />
 </p>
 
-<!-- ===================== MAIN HEADING ===================== -->
-<h1 align="center">Hi! I'm <span style="color:#00BFFF">Pradyumn Tiware Nexus</span> 👋</h1>
-
+<!-- Terminal intro -->
 <p align="center">
-  <b>Cybersecurity Researcher • Bug Bounty Hunter • Recon Automation Developer</b>
+  <img src="terminal_intro.gif" alt="Terminal Intro" width="800" />
 </p>
 
-<p align="center">
-  <a href="https://pradyumntiwarenexus.github.io/" target="_blank">🔗 Portfolio</a> • 
-  <a href="https://github.com/PradyumnTiwareNexus/All-in-one-recon" target="_blank">🧩 All-in-one-recon</a> • 
-  <a href="mailto:your-email@example.com">✉️ Contact</a>
-</p>
-
----
-
-<!-- ===================== TERMINAL INTRO ===================== -->
-<p align="center">
-  <img src="assets/terminal_intro.gif" width="800" />
-</p>
 
 ---
 
