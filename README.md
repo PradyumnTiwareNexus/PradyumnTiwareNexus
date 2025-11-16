@@ -1,14 +1,19 @@
-
+<!-- ===================== TOP BANNER ===================== -->
 <p align="center">
   <img src="assets/banner_anim.gif" width="100%" />
 </p>
+
+<!-- ===================== VISITORS COUNTER ===================== -->
 <p align="center">
-  <img src="banner.svg" alt="Pradyumn Tiware Nexus Banner" width="100%" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge" alt="hi">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PradyumnTiwareNexus" />
 </p>
 
+<!-- ===================== NAME BADGE ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge">
+</p>
+
+<!-- ===================== MAIN HEADING ===================== -->
 <h1 align="center">Hi! I'm <span style="color:#00BFFF">Pradyumn Tiware Nexus</span> 👋</h1>
 
 <p align="center">
@@ -23,7 +28,15 @@
 
 ---
 
+<!-- ===================== TERMINAL INTRO ===================== -->
+<p align="center">
+  <img src="assets/terminal_intro.gif" width="800" />
+</p>
+
+---
+
 ## 👤 More about me  
+
 - 🔎 **Specialties:** Recon Automation, OSINT, Web Security, Bug Bounty  
 - 🛠️ **Tools I use:** Burp Suite, Nmap, Subfinder, httpx, nuclei, Gau, Wayback  
 - 💻 **Languages:** Python • Bash • JavaScript • C/C++  
@@ -31,6 +44,11 @@
 - 🏆 **Hobbies:** Bug hunting, CTFs, reading security writeups  
 
 ---
+
+<!-- ===================== TYPING HEADER ===================== -->
+<p align="center">
+  <img src="assets/typing_header.gif" width="420" />
+</p>
 
 ## 🧠 Knowledge & Skills
 
@@ -78,27 +96,16 @@
 
 </div>
 
-
-## 📫 Connect
-<p align="center">
-  <a href="https://github.com/PradyumnTiwareNexus" target="_blank">🐙 GitHub</a> • 
-  <a href="https://pradyumntiwarenexus.github.io/" target="_blank">🌐 Website</a> • 
-  <a href="https://twitter.com/your_twitter" target="_blank">🐦 X/Twitter</a> • 
-  <a href="mailto:your-email@example.com">✉️ Email</a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img 
        src="https://github-readme-stats.vercel.app/api?username=PradyumnTiwareNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
        height="170" />
 
-  <!-- Top Languages -->
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyumnTiwareNexus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff"
        height="170" />
@@ -124,6 +131,5 @@
 </div>
 
 ---
-
 
 <p align="center">⭐ If you like my projects, consider giving a star!</p>
