@@ -51,16 +51,17 @@ With a strong passion for technology and experience in vulnerability assessment,
   <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
 
-<h2 align="center">🧠 Knowledge & Skills</h2>
+<!-- ===== B-Compact: same badges, tighter spacing ===== -->
 
 <p align="center">
-  <!-- Upload assets/header.gif (approx 420×60) for moving header animation -->
-  <img src="assets/header.gif" alt="animated header" width="420" />
+  <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
+
+<h3 align="center">🧠 Knowledge & Skills</h3>
+<p align="center"><img src="assets/header.gif" alt="animated header" width="360" /></p>
 
 <div align="center">
 
-<!-- row 1 : Security / Recon -->
 <img alt="Burp" src="https://img.shields.io/badge/-BURP%20SUITE-0b1220?style=for-the-badge&logo=burpsuite&logoColor=ff6a00" /> 
 <img alt="Proxy" src="https://img.shields.io/badge/-PROXY-0b1220?style=for-the-badge" /> 
 <img alt="Nmap" src="https://img.shields.io/badge/-NMAP-0b1220?style=for-the-badge&logo=nmap" /> 
@@ -71,9 +72,8 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="Packets" src="https://img.shields.io/badge/-PACKETS-0b1220?style=for-the-badge" /> 
 <img alt="httpx" src="https://img.shields.io/badge/-HTTPX-0b1220?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<!-- row 2 : Languages & Runtime -->
 <img alt="Python" src="https://img.shields.io/badge/-PYTHON-14213d?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="3.x" src="https://img.shields.io/badge/-3.x-14213d?style=for-the-badge" />
 <img alt="Bash" src="https://img.shields.io/badge/-BASH-14213d?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -83,9 +83,8 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="Node.js" src="https://img.shields.io/badge/-NODE.JS-14213d?style=for-the-badge&logo=node.js" />
 <img alt="Runtime" src="https://img.shields.io/badge/-RUNTIME-14213d?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<!-- row 3 : Containers / OS -->
 <img alt="Docker" src="https://img.shields.io/badge/-DOCKER-0f1724?style=for-the-badge&logo=docker" />
 <img alt="Containers" src="https://img.shields.io/badge/-CONTAINERS-0f1724?style=for-the-badge" />
 <img alt="Kali" src="https://img.shields.io/badge/-KALI%20LINUX-0f1724?style=for-the-badge&logo=kali%20linux" />
@@ -94,9 +93,8 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="MongoDB" src="https://img.shields.io/badge/-MONGODB-0f1724?style=for-the-badge&logo=mongodb" />
 <img alt="Database" src="https://img.shields.io/badge/-DATABASE-0f1724?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<!-- row 4 : Tools & Editors -->
 <img alt="Git" src="https://img.shields.io/badge/-GIT-0b1220?style=for-the-badge&logo=git" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VS%20CODE-0b1220?style=for-the-badge&logo=visual-studio-code" />
 <img alt="Nuclei" src="https://img.shields.io/badge/-NUCLEI-0b1220?style=for-the-badge" />
@@ -107,6 +105,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 </div>
 
 ---
+
 
 
 
