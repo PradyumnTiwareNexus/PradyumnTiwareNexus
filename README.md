@@ -83,4 +83,43 @@
   <a href="mailto:your-email@example.com">✉️ Email</a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=PradyumnTiwareNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
+       height="170" />
+
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyumnTiwareNexus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff"
+       height="170" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img 
+       src="https://streak-stats.demolab.com?user=PradyumnTiwareNexus&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" 
+       height="200" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PradyumnTiwareNexus&theme=algolia&no-frame=true&row=1&margin-w=20" />
+</div>
+
+---
+
+
 <p align="center">⭐ If you like my projects, consider giving a star!</p>
