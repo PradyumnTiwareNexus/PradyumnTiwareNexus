@@ -44,7 +44,19 @@ With a strong passion for technology and experience in vulnerability assessment,
 
 ---
 
-## 🧠 Knowledge & Skills
+<!-- ===== B-Full: Fancy Glass Banner + Animated Header ===== -->
+
+<p align="center">
+  <!-- Upload assets/banner.png (1600×300) -->
+  <img src="assets/banner.png" alt="banner" width="100%" />
+</p>
+
+<h2 align="center">🧠 Knowledge & Skills</h2>
+
+<p align="center">
+  <!-- Upload assets/header.gif (approx 420×60) for moving header animation -->
+  <img src="assets/header.gif" alt="animated header" width="420" />
+</p>
 
 <div align="center">
 
@@ -95,6 +107,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 </div>
 
 ---
+
 
 
 ## 📫 Connect
