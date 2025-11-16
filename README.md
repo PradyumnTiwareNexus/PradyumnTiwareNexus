@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="assets/banner_anim.gif" width="100%" />
+</p>
 <p align="center">
   <img src="banner.svg" alt="Pradyumn Tiware Nexus Banner" width="100%" />
 </p>
