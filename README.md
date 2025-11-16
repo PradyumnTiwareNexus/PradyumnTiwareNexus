@@ -29,43 +29,43 @@
 
 <div align="center">
 
-<!-- ===== Line 1: Security / Recon (compact, glassy pills) ===== -->
-<img alt="Burp" src="https://img.shields.io/badge/BURP%20SUITE- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=burpsuite&logoColor=ff6a00" /> 
-<img alt="Proxy" src="https://img.shields.io/badge/PROXY- -?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
-<img alt="Nmap" src="https://img.shields.io/badge/NMAP- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=nmap" /> 
-<img alt="Networking" src="https://img.shields.io/badge/NETWORKING- -?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
-<img alt="Metasploit" src="https://img.shields.io/badge/METASPLOIT- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=metasploit&logoColor=6fb3ff" /> 
-<img alt="Exploit" src="https://img.shields.io/badge/EXPLOIT- -?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
-<img alt="Wireshark" src="https://img.shields.io/badge/WIRESHARK- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=wireshark" /> 
-<img alt="Packets" src="https://img.shields.io/badge/PACKETS- -?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
-<img alt="httpx" src="https://img.shields.io/badge/HTTPX- -?style=for-the-badge&labelColor=0b1220&color=0f1724" />
-
-<!-- small gap — no big line breaks, keeping compact -->
-<br/>
-
-<!-- ===== Line 2: Languages & Runtime + Container/OS (compact) ===== -->
-<img alt="Python" src="https://img.shields.io/badge/PYTHON-3.x?style=for-the-badge&labelColor=071428&color=0b2545&logo=python&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/BASH-SHELL?style=for-the-badge&labelColor=071428&color=0b2545&logo=gnu-bash&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-ES6?style=for-the-badge&labelColor=071428&color=0b2545&logo=javascript&logoColor=fff200" />
-<img alt="Node" src="https://img.shields.io/badge/NODE.JS-RUNTIME?style=for-the-badge&labelColor=071428&color=0b2545&logo=node.js" />
-<img alt="Docker" src="https://img.shields.io/badge/DOCKER-CONTAINERS?style=for-the-badge&labelColor=071428&color=061b2a&logo=docker" />
-<img alt="Kali" src="https://img.shields.io/badge/KALI%20LINUX- -?style=for-the-badge&labelColor=071428&color=061b2a&logo=kali%20linux" />
-<img alt="Linux" src="https://img.shields.io/badge/LINUX- -?style=for-the-badge&labelColor=071428&color=061b2a&logo=linux" />
-<img alt="Debian" src="https://img.shields.io/badge/DEBIAN- -?style=for-the-badge&labelColor=071428&color=061b2a&logo=debian" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-DATABASE?style=for-the-badge&labelColor=071428&color=061b2a&logo=mongodb" />
+<!-- Line 1: Security / Recon (compact, glassy pills) -->
+<img alt="BURP" src="https://img.shields.io/badge/BURP%20SUITE-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
+<img alt="PROXY" src="https://img.shields.io/badge/PROXY-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
+<img alt="NMAP" src="https://img.shields.io/badge/NMAP-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=nmap" /> 
+<img alt="NETWORKING" src="https://img.shields.io/badge/NETWORKING-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
+<img alt="METASPLOIT" src="https://img.shields.io/badge/METASPLOIT-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=metasploit&logoColor=6fb3ff" /> 
+<img alt="EXPLOIT" src="https://img.shields.io/badge/EXPLOIT-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
+<img alt="WIRESHARK" src="https://img.shields.io/badge/WIRESHARK-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=wireshark" /> 
+<img alt="PACKETS" src="https://img.shields.io/badge/PACKETS-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" /> 
+<img alt="HTTPX" src="https://img.shields.io/badge/HTTPX-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" />
 
 <br/>
 
-<!-- ===== Line 3: Tools & Editors (compact) ===== -->
-<img alt="Git" src="https://img.shields.io/badge/GIT- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=git" />
-<img alt="VSCode" src="https://img.shields.io/badge/VS%20CODE- -?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=visual-studio-code" />
-<img alt="Nuclei" src="https://img.shields.io/badge/NUCLEI- -?style=for-the-badge&labelColor=0b1220&color=0f1724" />
-<img alt="Gau" src="https://img.shields.io/badge/GAU- -?style=for-the-badge&labelColor=0b1220&color=0f1724" />
-<img alt="Subfinder" src="https://img.shields.io/badge/SUBFINDER- -?style=for-the-badge&labelColor=0b1220&color=0f1724" />
-<img alt="httpx" src="https://img.shields.io/badge/HTTPX- -?style=for-the-badge&labelColor=0b1220&color=0f1724" />
+<!-- Line 2: Languages & Runtime + Container/OS -->
+<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-3.x%E2%80%A2?style=for-the-badge&labelColor=071428&color=0b2545&logo=python&logoColor=white" />
+<img alt="BASH" src="https://img.shields.io/badge/BASH-%E2%80%A2?style=for-the-badge&labelColor=071428&color=0b2545&logo=gnu-bash&logoColor=white" />
+<img alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-ES6%E2%80%A2?style=for-the-badge&labelColor=071428&color=0b2545&logo=javascript&logoColor=fff200" />
+<img alt="NODE" src="https://img.shields.io/badge/NODE.JS-RUNTIME%E2%80%A2?style=for-the-badge&labelColor=071428&color=0b2545&logo=node.js" />
+<img alt="DOCKER" src="https://img.shields.io/badge/DOCKER-CONTAINERS%E2%80%A2?style=for-the-badge&labelColor=071428&color=061b2a&logo=docker" />
+<img alt="KALI" src="https://img.shields.io/badge/KALI%20LINUX-%E2%80%A2?style=for-the-badge&labelColor=071428&color=061b2a&logo=kali%20linux" />
+<img alt="LINUX" src="https://img.shields.io/badge/LINUX-%E2%80%A2?style=for-the-badge&labelColor=071428&color=061b2a&logo=linux" />
+<img alt="DEBIAN" src="https://img.shields.io/badge/DEBIAN-%E2%80%A2?style=for-the-badge&labelColor=071428&color=061b2a&logo=debian" />
+<img alt="MONGO" src="https://img.shields.io/badge/MONGODB-DATABASE%E2%80%A2?style=for-the-badge&labelColor=071428&color=061b2a&logo=mongodb" />
+
+<br/>
+
+<!-- Line 3: Tools & Editors -->
+<img alt="GIT" src="https://img.shields.io/badge/GIT-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=git" />
+<img alt="VSCODE" src="https://img.shields.io/badge/VS%20CODE-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724&logo=visual-studio-code" />
+<img alt="NUCLEI" src="https://img.shields.io/badge/NUCLEI-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" />
+<img alt="GAU" src="https://img.shields.io/badge/GAU-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" />
+<img alt="SUBFINDER" src="https://img.shields.io/badge/SUBFINDER-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" />
+<img alt="HTTPX" src="https://img.shields.io/badge/HTTPX-%E2%80%A2?style=for-the-badge&labelColor=0b1220&color=0f1724" />
 
 </div>
 
+---
 
 ## 📫 Connect
 <p align="center">
