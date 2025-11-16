@@ -16,39 +16,16 @@
 
 ---
 
-## Hi there 👋
-I'm **Pradyumn** — a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter.  
-With a strong passion for technology and experience in vulnerability assessment, recon automation, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
-
-<details>
-  <summary>▶ More about me</summary>
-
-  - 🔎 **Specialties:** Recon Automation, OSINT, Web Security, Bug Bounty  
-  - 🛠️ **Tools I use:** Burp Suite, Nmap, Subfinder, httpx, nuclei, Gau, Wayback  
-  - 💻 **Languages:** Python • Bash • JavaScript • C/C++  
-  - 🌱 **Currently:** Building advanced recon automation & improving All-in-one-recon (v2.1)  
-  - 🏆 **Hobbies:** Bug hunting, CTFs, reading security writeups
-
-</details>
+## 👤 More about me  
+- 🔎 **Specialties:** Recon Automation, OSINT, Web Security, Bug Bounty  
+- 🛠️ **Tools I use:** Burp Suite, Nmap, Subfinder, httpx, nuclei, Gau, Wayback  
+- 💻 **Languages:** Python • Bash • JavaScript • C/C++  
+- 🌱 **Currently:** Building advanced recon automation & improving All-in-one-recon (v2.1)  
+- 🏆 **Hobbies:** Bug hunting, CTFs, reading security writeups  
 
 ---
 
-## 🔥 Featured Projects
-- **All-in-one-recon (v2.1)** — Advanced recon automation tool.  
-  https://github.com/PradyumnTiwareNexus/All-in-one-recon
-
-- **Portfolio (GitHub Pages)** — Personal site & contact info.  
-  https://pradyumntiwarenexus.github.io/
-
----
-
-<!-- ===== Fancy Banner (single copy) ===== -->
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
-
-<h3 align="center">🧠 Knowledge & Skills</h3>
-<p align="center"><img src="assets/header.gif" alt="animated header" width="360" /></p>
+## 🧠 Knowledge & Skills
 
 <div align="center">
 
@@ -62,7 +39,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="Packets" src="https://img.shields.io/badge/-PACKETS-0b1220?style=for-the-badge" /> 
 <img alt="httpx" src="https://img.shields.io/badge/-HTTPX-0b1220?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <img alt="Python" src="https://img.shields.io/badge/-PYTHON-14213d?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="3.x" src="https://img.shields.io/badge/-3.x-14213d?style=for-the-badge" />
@@ -73,7 +50,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="Node.js" src="https://img.shields.io/badge/-NODE.JS-14213d?style=for-the-badge&logo=node.js" />
 <img alt="Runtime" src="https://img.shields.io/badge/-RUNTIME-14213d?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <img alt="Docker" src="https://img.shields.io/badge/-DOCKER-0f1724?style=for-the-badge&logo=docker" />
 <img alt="Containers" src="https://img.shields.io/badge/-CONTAINERS-0f1724?style=for-the-badge" />
@@ -83,7 +60,7 @@ With a strong passion for technology and experience in vulnerability assessment,
 <img alt="MongoDB" src="https://img.shields.io/badge/-MONGODB-0f1724?style=for-the-badge&logo=mongodb" />
 <img alt="Database" src="https://img.shields.io/badge/-DATABASE-0f1724?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <img alt="Git" src="https://img.shields.io/badge/-GIT-0b1220?style=for-the-badge&logo=git" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VS%20CODE-0b1220?style=for-the-badge&logo=visual-studio-code" />
