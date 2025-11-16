@@ -1,4 +1,22 @@
+<p align="center">
+  <img src="banner.svg" alt="Pradyumn Tiware Nexus Banner" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pradyumn%20Tiware%20Nexus-👋-brightgreen?style=for-the-badge" alt="hi">
+</p>
+
+<h1 align="center">Hi! I'm <span style="color:#00BFFF">Pradyumn Tiware Nexus</span> 👋</h1>
+
+<p align="center">
+  <b>Cybersecurity Researcher • Bug Bounty Hunter • Recon Automation Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://pradyumntiwarenexus.github.io/" target="_blank">🔗 Portfolio</a> • 
+  <a href="https://github.com/PradyumnTiwareNexus/All-in-one-recon" target="_blank">🧩 All-in-one-recon</a> • 
+  <a href="mailto:your-email@example.com">✉️ Contact</a>
+</p>
 
 ---
 
