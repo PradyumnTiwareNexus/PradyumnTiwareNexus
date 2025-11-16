@@ -1,22 +1,3 @@
-<!-- ===== Top banner (root) ===== -->
-<p align="center">
-  <img src="banner_anim.gif" alt="Pradyumn Tiware Nexus - Cyberpunk Banner" width="100%" />
-</p>
-
-<!-- Visitors -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PradyumnTiwareNexus" alt="visitors"/>
-</p>
-
-<!-- Typing header -->
-<p align="center">
-  <img src="typing_header.gif" alt="Typing Header" width="420" />
-</p>
-
-<!-- Terminal intro -->
-<p align="center">
-  <img src="terminal_intro.gif" alt="Terminal Intro" width="800" />
-</p>
 
 
 ---
